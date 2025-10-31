@@ -1,0 +1,4 @@
+
+# Large artifacts (Gradescope-only)
+*.tsv
+enron_spam_data.zip*

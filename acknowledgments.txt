@@ -1,0 +1,5 @@
+Name	Affiliation	Contribution	Link
+ChatGPT (OpenAI)	Generative AI assistant	Helped with feature design, Naive Bayes math, debugging, and ROC code for Week 9.	N/A
+MWiechmann/enron_spam_data	GitHub repository	Data source zip referenced in instructions.	https://github.com/MWiechmann/enron_spam_data
+bu-cds-dx704/dx704-project-09	GitHub repository	Project description and template notebook.	https://github.com/bu-cds-dx704/dx704-project-09
+bu-cds-omds example repos	GitHub repositories	Example notebooks used for reference.	https://github.com/bu-cds-omds
